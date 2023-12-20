@@ -1,4 +1,4 @@
-🌟 Hey there! I'm Emanuele, but you can call me @noostale.
+Hey there! I'm Emanuele, aka @noostale.
 
 🤖 I'm a computer engineer with a huge crush on AI. My journey in the AI world has been a mix of tinkering with neural networks, playing with machine learning algorithms, and always being on the lookout for something new and exciting.
 
