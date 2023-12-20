@@ -1,5 +1,6 @@
 ✋ Hello! I'm Emanuele, also known in the digital realm as @noostale.
 
+
 🤖 I am a computer engineer deeply fascinated by the world of artificial intelligence.
 
 🔍 Things I'm into:
