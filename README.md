@@ -1,9 +1,10 @@
 ✋ Hey there! I'm Emanuele, aka @noostale.
 
-🤖 I'm a computer engineer with a huge crush on AI.
+🤖 I am a computer engineer deeply fascinated by the world of artificial intelligence.
 
 🔍 Things I'm into:
-- Diving into natural language processing models
+- Exploring advancements in machine learning algorithms for image and speech recognition.
+- Designing and building DIY projects using Arduino, Raspberry Pi, and other microcontrollers.
+- Contributing to open-source projects and philosophy.
 
-📫 Hit me up:
-Got an idea? Want to collaborate? Email me at emanuele.frasca.00@gmail.com
+📫 Hit me up: emanuele.frasca.00@gmail.com
