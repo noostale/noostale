@@ -1,7 +1,7 @@
-✋ Hello! I'm Emanuele, also known in the digital realm as @noostale.
+✋ Hello! I'm Emanuele, also known as @noostale.
 
 
-🤖 I am a computer engineer deeply fascinated by the world of artificial intelligence.
+🤖 I am a computer engineer deeply into the world of AI.
 
 🔍 Things I'm into:
 - Exploring advancements in machine learning algorithms for image and speech recognition.
