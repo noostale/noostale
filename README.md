@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **emanuele.frasca.00@gmail.com**
 
-- 📄 To know about my experiences, have a loot to my [**resume**](https://registry.jsonresume.org/noostale?theme=professional)
+- 📄 To know about my experiences, have a look to my [**resume**](https://registry.jsonresume.org/noostale?theme=professional)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
