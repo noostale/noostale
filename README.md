@@ -3,7 +3,9 @@
 
 
 
-- 🔭 I’m currently working on my **Master Degree in AI & Robotics** at *Sapienza University of Rome*
+- 🧑🏻‍🏫 I’m currently working on my **Master Degree in AI & Robotics** at *Sapienza University of Rome*
+
+- 🧑🏻‍💻 Love self-hosting services
 
 - 📫 How to reach me **emanuele.frasca.00@gmail.com**
 
