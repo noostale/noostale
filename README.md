@@ -5,8 +5,6 @@
 
 - 🧑🏻‍🏫 I’m currently working on my **Master Degree in AI & Robotics** at *Sapienza University of Rome*
 
-- 🧑🏻‍💻 Love self-hosting services
-
 - 📫 How to reach me **emanuele.frasca.00@gmail.com**
 
 - 📄 To know about my experiences, have a look to my [**resume**](https://registry.jsonresume.org/noostale?theme=professional)
