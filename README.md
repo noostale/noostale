@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Emanuele Frasca</h1>
-<h3 align="center">AI and computer engineer from Italy</h3>
+<h3 align="center">AI and Computer Engineer from Italy</h3>
 
 
 
