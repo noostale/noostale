@@ -1,4 +1,4 @@
-<h1 align="center">Ciao! I'm Emanuele</h1>
+<h1 align="center">Emanuele Frasca</h1>
 <h3 align="center">Engineer and AI enthusiast from Italy</h3>
 
 
