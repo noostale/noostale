@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/emanuele-frasca/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white"></a>
   <a href="https://huggingface.co/emanuele-frasca"><img src="https://img.shields.io/badge/-Hugging Face-ff9900?style=flat&logo=huggingface&logoColor=white"></a>
-  <a href="https://registry.jsonresume.org/noostale?theme=professional"><img src="https://img.shields.io/badge/-Resume-000000?style=flat&logo=adobeacrobatreader&logoColor=red"></a>
+  <a href="https://kaggle.com/emanuelefrasca"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"></a>
 </p>
 
 ### 🎓 About Me
