@@ -4,9 +4,12 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/emanuele-frasca/"><img src="https://img.shields.io/badge/-Emanuele%20Frasca-blue?style=flat&logo=Linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/noostale"><img src="https://img.shields.io/badge/- Noostale-000000?style=flat&logo=X&logoColor=white"></a>
-  <a href="https://github.com/noostale"><img src="https://img.shields.io/github/followers/noostale?label=Follow&style=social"></a>
+  <a href="https://www.linkedin.com/in/emanuele-frasca/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+  <a href="https://huggingface.co/emanuele-frasca"><img src="https://img.shields.io/badge/-Hugging Face-ff9900?style=flat&logo=huggingface&logoColor=white"></a>
+  <a href="https://registry.jsonresume.org/noostale?theme=professional"><img src="https://img.shields.io/badge/-Resume-ffffff?style=flat&logo=adobeacrobatreader&logoColor=red"></a>
+
+
+    
 
 </p>
 
