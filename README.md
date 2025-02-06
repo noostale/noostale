@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Emanuele 👋</h1>
-<h3 align="center">AI and Computer Engineer from Italy</h3>
+<h3 align="center">Computer and Artificial Intelligence Engineer from Italy</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emanuele-frasca/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white"></a>
