@@ -11,7 +11,7 @@
 
 - 🧑🏻‍🏫 I’m currently pursuing my **Master's Degree in AI & Robotics** at _Sapienza University of Rome_.
 - 🤖 My main interests are in the field of **Natural Language Processing** and **Explainable AI (XAI)**.
-- 🌱 I’m currently learning **Reinforcement Learning**, **Deep Learning** and in my free time **Javascript**.
+- 🌱 I’m currently learning **Reinforcement Learning** and **Deep Learning**.
 
 ### 🔧 Main Languages and Tools
 
