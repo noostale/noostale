@@ -7,6 +7,6 @@
 
 <br>
 
-- Pursuing a Master's Degree in Artificial Intelligence & Robotics at _Sapienza University of Rome_.
-- Interested in Natural Language Processing and Explainable AI.
-- Currently exploring Reinforcement Learning and Deep Learning.
+- Currently pursuing a Master's Degree in Artificial Intelligence & Robotics at _Sapienza University of Rome_.
+- Interested in Deep Learning and Representation Learning.
+- Currently exploring modern approaches to research and open science.
