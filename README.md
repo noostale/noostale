@@ -2,9 +2,7 @@
 <h3 align="center">Computer Engineer and Artificial Intelligence Engineer from Italy</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/emanuele-frasca/">Linkedin</a> |
-  <a href="https://noostale.github.io">Webpage</a> |
-  <a href="https://noostale.github.io">Bluesky</a>
+  <a href="https://www.linkedin.com/in/emanuele-frasca/">Linkedin</a>
 </p>
 
 <br>
